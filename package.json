@@ -1,9 +1,9 @@
 {
-  "name": "elagant-music-app",
+  "name": "endertunes-music-app",
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview"
   },
